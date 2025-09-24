@@ -1,3 +1,5 @@
+## Youtube video link : https://youtu.be/zJNw-fKk1p0?si=IvCjLdzy4YcPM6TO
+
 # RFID-Based Attendance System with Environmental Monitoring
 
 This project implements an RFID-based attendance system integrated with environmental monitoring, designed for classroom use. It uses an Arduino Uno to read RFID tags, monitor temperature and humidity via a DHT22 sensor, display real-time feedback on an I²C LCD, and provide audible cues via a buzzer. A Python backend logs attendance and environmental data to CSV files and predicts future attendance using linear regression. A Tkinter-based GUI displays real-time logs, session summaries, and predictions.
